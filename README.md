@@ -1,1 +1,1 @@
-# manual-react-vite-chartjs
+# MANUAL - REACT (VITE) - Chart.js
